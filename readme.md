@@ -15,6 +15,13 @@ A curated list of resources of chinese corpus for NLP(Natural Language Processin
 |upenn.edu|各种|各种|
 
 
+- [搜狗实验室](https://www.sogou.com/labs/resource/list_yuliao.php)
+
+|出处|语料大小|年代|
+|--|--|--|
+|sogou.com|免费小样本|2012|
+
+
 - [awesome-chinese-nlp](https://github.com/crownpku/awesome-chinese-nlp)
 
 |出处|语料大小|年代|
