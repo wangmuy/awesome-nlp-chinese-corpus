@@ -15,11 +15,32 @@ A curated list of resources of chinese corpus for NLP(Natural Language Processin
 |upenn.edu|各种|各种|
 
 
+- [CoNLL](http://www.conll.org/previous-tasks)
+
+|出处|语料大小|年代|
+|--|--|--|
+|conll.org|各种|各种|
+
+
+- [OpenSubtitles](http://opus.lingfil.uu.se/OpenSubtitles.php)
+
+|出处|语料大小|年代|
+|--|--|--|
+|www.opensubtitles.org|各种|各种|
+
+
 - [搜狗实验室](https://www.sogou.com/labs/resource/list_yuliao.php)
 
 |出处|语料大小|年代|
 |--|--|--|
 |sogou.com|免费小样本|2012|
+
+
+- [玻森中文语义开放平台](http://bosonnlp.com/dev/resource)
+
+|出处|语料大小|年代|
+|--|--|--|
+|bosonnlp.com|中小|2014-2015|
 
 
 - [awesome-chinese-nlp](https://github.com/crownpku/awesome-chinese-nlp)
@@ -41,3 +62,24 @@ A curated list of resources of chinese corpus for NLP(Natural Language Processin
 |出处|语料大小|年代|
 |--|--|--|
 |github.com/nonamestreet|3G|未知|
+
+
+- [blog.just4fun.site](http://blog.just4fun.site/NLP-corpus.html)
+
+|出处|语料大小|年代|
+|--|--|--|
+|blog.just4fun.site|各种|各种|
+
+
+- [白鹭时代中文问答](https://github.com/Samurais/egret-wenda-corpus)
+
+|出处|语料大小|年代|
+|--|--|--|
+|github.com/Samurais|小|2016|
+
+
+- [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh)
+
+|出处|语料大小|年代|
+|--|--|--|
+|github.com/Samurais|小|未知|
