@@ -28,6 +28,11 @@ A curated list of resources of chinese corpus for NLP(Natural Language Processin
 |--|--|--|
 |www.opensubtitles.org|各种|各种|
 
+- [北京大学开放研究数据平台](http://opendata.pku.edu.cn/dataverse/pku)
+
+|出处|语料大小|年代|
+|--|--|--|
+|opendata.pku.edu.cn|各种|各种|
 
 - [搜狗实验室](https://www.sogou.com/labs/resource/list_yuliao.php)
 
