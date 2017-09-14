@@ -1,6 +1,6 @@
 # awesome-nlp-chinese-corpus
 
-A curated list of resources of chinese corpus for NLP(Natural Language Processing)
+A curated list of resources of chinese corpora for NLP(Natural Language Processing)
 
 中文自然语言处理预料 收集列表
 
@@ -20,6 +20,13 @@ A curated list of resources of chinese corpus for NLP(Natural Language Processin
 |出处|语料大小|年代|
 |--|--|--|
 |conll.org|各种|各种|
+
+
+- [microblogPCU](https://archive.ics.uci.edu/ml/datasets/microblogPCU)
+
+|出处|语料大小|年代|
+|--|--|--|
+|ics.uci.edu|221k|2015|
 
 
 - [OpenSubtitles](http://opus.lingfil.uu.se/OpenSubtitles.php)
