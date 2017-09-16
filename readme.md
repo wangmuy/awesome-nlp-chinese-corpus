@@ -95,3 +95,10 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |出处|语料大小|年代|
 |--|--|--|
 |github.com/Samurais|小|未知|
+
+
+- [Erheng Zhong](https://sites.google.com/site/erhengzhong/datasets)
+
+|出处|语料大小|年代|
+|--|--|--|
+|erhengzhong|未知|2010-2012|
