@@ -54,6 +54,12 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |--|--|--|
 |bosonnlp.com|中小|2014-2015|
 
+- [中文开放知识图谱](http://openkg.cn/dataset)
+
+|出处|语料大小|年代|
+|--|--|--|
+|openkg.cn|各种|各种|
+
 
 - [awesome-chinese-nlp](https://github.com/crownpku/awesome-chinese-nlp)
 
