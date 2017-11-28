@@ -99,6 +99,13 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |nlpir.org|~2万|2011|
 
 
+- [DuReader Dataset](https://ai.baidu.com/broad/introduction?dataset=dureader) [github](https://github.com/baidu/DuReader)
+
+|出处|语料大小|年代|
+|--|--|--|
+|baidu|950k|2017|
+
+
 - [golden-horse 微博命名实体识别](https://github.com/hltcoe/golden-horse)
 
 |出处|语料大小|年代|
