@@ -57,6 +57,21 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |NLPCC 2017|200k|2017|
 
 
+- [NLPCC 2018](http://tcci.ccf.org.cn/conference/2018/taskdata.php)
+  * 任务1: 情绪识别
+  * 任务2: 语法纠错
+  * 任务3: 自动文摘
+  * 任务4: 任务型对话系统中的口语理解
+  * 任务5: 多轮人机对话
+  * 任务6: 知乎问题标注
+  * 任务7: 开放领域问答
+  * 任务8: 用户画像与推荐
+
+|出处|语料大小|年代|
+|--|--|--|
+|NLPCC 2018|各种|2018|
+
+
 - [第六届全国社会媒体处理大会之中文人机对话技术评测](https://github.com/HITlilingzhi/SMP2017ECDT-DATA)
 
 |出处|语料大小|年代|
