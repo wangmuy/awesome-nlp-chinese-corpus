@@ -43,6 +43,13 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |opendata.pku.edu.cn|各种|各种|
 
 
+- [Multilingual ATIS](http://www.statnlp.org/software/dataset)
+
+|出处|语料大小|年代|
+|--|--|--|
+|新加坡科技与设计大学 StatNLP|各种(英/中/印度)|2017|
+
+
 - [中文文本分类数据集 THUCNews](http://thuctc.thunlp.org/#%E8%8E%B7%E5%8F%96%E9%93%BE%E6%8E%A5)
 
 |出处|语料大小|年代|
