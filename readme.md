@@ -79,6 +79,17 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |NLPCC 2018|各种|2018|
 
 
+- [CCKS 2018 知识图谱四项比赛](http://www.ccks2018.cn/?page_id=16)
+  * 任务1: 面向中文电子病历的命名实体识别
+  * 任务2: 面向音乐领域的命令理解任务
+  * 任务3: 微众银行智能客服问句匹配大赛
+  * 任务4: 开放领域的中文问答任务
+
+|出处|语料大小|年代|
+|--|--|--|
+|CCKS 2018|各种|2018|
+
+
 - [第六届全国社会媒体处理大会之中文人机对话技术评测](https://github.com/HITlilingzhi/SMP2017ECDT-DATA)
 
 |出处|语料大小|年代|
