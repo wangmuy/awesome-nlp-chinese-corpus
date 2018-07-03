@@ -150,7 +150,7 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 
 |出处|语料大小|年代|
 |--|--|--|
-|MarkWuNLP/MultiTurnResponseSelection|1000k|2017|
+|github.com/MarkWuNLP|1000k|2017|
 
 
 - [我爱自然语言处理-新闻语料库](http://www.52nlp.cn/opencorpus)
@@ -172,6 +172,13 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |出处|语料大小|年代|
 |--|--|--|
 |github.com/crownpku|小|各种|
+
+
+- [中文对白语料 射手 等](https://github.com/fateleak/dgk_lost_conv)
+
+|出处|语料大小|年代|
+|--|--|--|
+|github.com/fateleak|未知|2016|
 
 
 - [微信公众号语料库](https://github.com/nonamestreet/weixin_public_corpus)
