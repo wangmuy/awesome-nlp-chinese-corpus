@@ -174,7 +174,7 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |github.com/crownpku|小|各种|
 
 
-- [中文对白语料 射手 等](https://github.com/fateleak/dgk_lost_conv)
+- [中文对白语料 小黄鸡/射手 等](https://github.com/fateleak/dgk_lost_conv)
 
 |出处|语料大小|年代|
 |--|--|--|
