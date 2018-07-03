@@ -146,6 +146,13 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |jhu.edu|19k|2015|
 
 
+- [Douban Conversation Corpus 豆瓣多轮对话](https://github.com/MarkWuNLP/MultiTurnResponseSelection)
+
+|出处|语料大小|年代|
+|--|--|--|
+|MarkWuNLP/MultiTurnResponseSelection|1000k|2017|
+
+
 - [我爱自然语言处理-新闻语料库](http://www.52nlp.cn/opencorpus)
 
 |出处|语料大小|年代|
