@@ -204,6 +204,12 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 
 ### Embedding 词嵌入
 
+- [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
+
+|模型|语料大小|嵌入大小|
+|--|--|--|
+|word2vec/fasttext|各种|各种|
+
 - [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors)
 
 |模型|语料大小|嵌入大小|
