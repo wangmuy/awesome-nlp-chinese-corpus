@@ -216,6 +216,13 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |erhengzhong|未知|2010-2012|
 
 
+- [中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry)
+
+|出处|语料大小|年代|
+|--|--|--|
+|chinese-poetry/chinese-poetry|5.5万首唐诗、26万首宋诗和2.1万首宋词|唐宋|
+
+
 ### Embedding 词嵌入
 
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
