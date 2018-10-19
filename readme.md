@@ -247,7 +247,7 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 - [fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
 
 |模型|语料大小|嵌入大小|
-|--|--|
+|--|--|--|
 |fastText|简中332647|300|
 
 - [BPEmb](https://github.com/bheinzerling/bpemb)
