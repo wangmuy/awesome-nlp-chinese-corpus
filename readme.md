@@ -89,6 +89,12 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |--|--|--|
 |CCKS 2018|各种|2018|
 
+- [WSDM杯 2019 假新闻分类](https://www.kaggle.com/c/fake-news-pair-classification-challenge/data)
+
+|出处|语料大小|年代|
+|--|--|--|
+|WSDM Cup 2019|400k|2018|
+
 
 - [第六届全国社会媒体处理大会之中文人机对话技术评测](https://github.com/HITlilingzhi/SMP2017ECDT-DATA)
 
