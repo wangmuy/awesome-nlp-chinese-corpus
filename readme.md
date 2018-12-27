@@ -64,6 +64,7 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
   * 任务4: Emotional Conversation Generation
   * 任务5: 开放领域问答
   * 任务6: 社交网络用户画像
+
 |出处|语料大小|年代|
 |--|--|--|
 |新闻头条分类 NLPCC 2017|200k|2017|
@@ -104,13 +105,6 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |CCKS 2017|各种|2017|
 
 
-- [WSDM杯 2019 假新闻分类](https://www.kaggle.com/c/fake-news-pair-classification-challenge/data)
-
-|出处|语料大小|年代|
-|--|--|--|
-|WSDM Cup 2019|400k|2018|
-
-
 - [SMP 2018 第七届全国社会媒体处理大会](http://smp2018.cips-smp.org/smpcup.html)
   * 任务1: [用户画像技术评测](https://biendata.com/competition/smpeupt2018/)
   * 任务2: [中文人机对话技术评测 用户意图领域分类](https://worksheets.codalab.org/worksheets/0x27203f932f8341b79841d50ce0fd684f/)
@@ -129,8 +123,22 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 
 |出处|语料大小|年代|
 |--|--|--|
-|CSDN用户画像 SMP2017, CSDN用户画像|10万|2017|
+|CSDN用户画像 SMP2017, CSDN|10万|2017|
 |中文人机对话 SMP2017ECDT|极少|2017|
+
+
+- [SMP 2016 第五届全国社会媒体处理大会](http://www.cips-smp.org/smp2016/public/cup.html)
+  * 任务1: [微博用户画像](https://biendata.com/competition/smpcup2016/)
+
+|出处|语料大小|年代|
+|--|--|--|
+|微博用户画像 SMP2016, 微博|4.6万|2016|
+
+- [WSDM杯 2019 假新闻分类](https://www.kaggle.com/c/fake-news-pair-classification-challenge/data)
+
+|出处|语料大小|年代|
+|--|--|--|
+|WSDM Cup 2019|400k|2018|
 
 
 - [英中翻译数据集2018](https://challenger.ai/dataset/ectd2018)
