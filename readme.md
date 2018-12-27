@@ -57,11 +57,17 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |清华大学自然语言处理实验室|740k|2005-2011|
 
 
-- [NLPCC 2017 新闻头条分类](https://github.com/FudanNLP/nlpcc2017_news_headline_categorization)
-
+- [NLPCC 2017 国际自然语言处理及中文计算会议](http://tcci.ccf.org.cn/conference/2017/taskdata.php)
+  * 任务1: Chinese Word Semantic Relation Classification
+  * 任务2: [新闻头条分类](https://github.com/FudanNLP/nlpcc2017_news_headline_categorization)
+  * 任务3: [新闻头条摘要](https://biendata.com/competition/nlptask03/)
+  * 任务4: Emotional Conversation Generation
+  * 任务5: 开放领域问答
+  * 任务6: 社交网络用户画像
 |出处|语料大小|年代|
 |--|--|--|
-|NLPCC 2017|200k|2017|
+|新闻头条分类 NLPCC 2017|200k|2017|
+|新闻头条摘要 NLPCC 2017|未考察|2017|
 
 
 - [NLPCC 2018](http://tcci.ccf.org.cn/conference/2018/taskdata.php)
@@ -79,7 +85,7 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |NLPCC 2018|各种|2018|
 
 
-- [CCKS 2018 知识图谱四项比赛](http://www.ccks2018.cn/?page_id=16)
+- [CCKS 2018 全国知识图谱与语义计算大会](http://www.ccks2018.cn/?page_id=16)
   * 任务1: 面向中文电子病历的命名实体识别
   * 任务2: 面向音乐领域的命令理解任务
   * 任务3: 微众银行智能客服问句匹配大赛
@@ -89,6 +95,15 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |--|--|--|
 |CCKS 2018|各种|2018|
 
+
+- [CCKS 2017 全国知识图谱与语义计算大会](http://ceur-ws.org/Vol-1976/)
+  * 任务1: [问题命名实体识别和链接](https://biendata.com/competition/CCKS2017_1/)
+
+|出处|语料大小|年代|
+|--|--|--|
+|CCKS 2017|各种|2017|
+
+
 - [WSDM杯 2019 假新闻分类](https://www.kaggle.com/c/fake-news-pair-classification-challenge/data)
 
 |出处|语料大小|年代|
@@ -96,11 +111,47 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |WSDM Cup 2019|400k|2018|
 
 
-- [第六届全国社会媒体处理大会之中文人机对话技术评测](https://github.com/HITlilingzhi/SMP2017ECDT-DATA)
+- [SMP 2018 第七届全国社会媒体处理大会](http://smp2018.cips-smp.org/smpcup.html)
+  * 任务1: [用户画像技术评测](https://biendata.com/competition/smpeupt2018/)
+  * 任务2: [中文人机对话技术评测 用户意图领域分类](https://worksheets.codalab.org/worksheets/0x27203f932f8341b79841d50ce0fd684f/)
+  * 任务3: [文本溯源技术评测](https://biendata.com/competition/smpetst2018/)
 
 |出处|语料大小|年代|
 |--|--|--|
-|SMP2017ECDT|极少|2017|
+|用户画像 SMP2018, SMP-EUPT|28万|2018|
+|中文人机对话 SMP2018, SMP-ECDT|极少|2018|
+|文本溯源 SMP2018, SMP-ETST|极少|2018|
+
+
+- [SMP 2017 第六届全国社会媒体处理大会](http://www.cips-smp.org/smp2017/)
+  * 任务1: [CSDN用户画像技术评测](https://biendata.com/competition/smpcup2017/)
+  * 任务2: [中文人机对话技术评测](https://github.com/HITlilingzhi/SMP2017ECDT-DATA)
+
+|出处|语料大小|年代|
+|--|--|--|
+|CSDN用户画像 SMP2017, CSDN用户画像|10万|2017|
+|中文人机对话 SMP2017ECDT|极少|2017|
+
+
+- [英中翻译数据集2018](https://challenger.ai/dataset/ectd2018)
+
+|出处|语料大小|年代|
+|--|--|--|
+|challenger.ai|1300万|2018|
+
+
+- [细粒度用户评论情感分析数据集2018](https://challenger.ai/dataset/fsaouord2018)
+
+|出处|语料大小|年代|
+|--|--|--|
+|challenger.ai|20万|2018|
+
+
+- [观点型问题阅读理解数据集2018](https://challenger.ai/dataset/oqmrcd2018)
+
+|出处|语料大小|年代|
+|--|--|--|
+|challenger.ai|25万|2018|
 
 
 - [搜狗实验室](https://www.sogou.com/labs/resource/list_yuliao.php)
@@ -129,6 +180,13 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |出处|语料大小|年代|
 |--|--|--|
 |biendata.com|各种|各种|
+
+
+- [2018搜狐内容识别算法大赛 新闻和新闻配图](https://biendata.com/competition/sohu2018/)
+
+|出处|语料大小|年代|
+|--|--|--|
+|biendata.com, 搜狐|百万级|2018|
 
 
 - [文本分类语料库（复旦）测试语料](http://www.nlpir.org/?action-viewnews-itemid-103)
