@@ -22,6 +22,13 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |conll.org|各种|各种|
 
 
+- [维基百科中文](https://dumps.wikimedia.org/zhwiki/latest/)
+
+|出处|语料大小|年代|
+|--|--|--|
+|wikimedia.org|各种|各种|
+
+
 - [microblogPCU](https://archive.ics.uci.edu/ml/datasets/microblogPCU)
 
 |出处|语料大小|年代|
