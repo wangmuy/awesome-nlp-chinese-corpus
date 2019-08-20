@@ -4,6 +4,9 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 
 中文自然语言处理语料 收集列表
 
+Pull requests are welcome!
+欢迎提交PR!
+
 ## Contents 列表
 
 ### 综合内容
@@ -148,6 +151,41 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |WSDM Cup 2019|400k|2018|
 
 
+- [CMRC 2017 第一届“讯飞杯”中文机器阅读理解评测](https://github.com/ymcui/cmrc2017)
+
+|出处|语料大小|年代|
+|--|--|--|
+|ymcui/cmrc2017|364k|2017|
+
+
+- [CMRC 2018 第二届“讯飞杯”中文机器阅读理解评测](https://github.com/ymcui/cmrc2018)
+
+|出处|语料大小|年代|
+|--|--|--|
+|ymcui/cmrc2018|18k|2018|
+
+
+- [CMRC 2019 第三届“讯飞杯”中文机器阅读理解评测](https://github.com/ymcui/cmrc2018)
+
+|出处|语料大小|年代|
+|--|--|--|
+|ymcui/cmrc2019|100k|2019|
+
+
+- [京东商品 评论](https://pan.baidu.com/s/1hsQSTbm)
+
+|出处|语料大小|年代|
+|--|--|--|
+|yongfeng.me/dataset|6000万|2014|
+
+
+- [大众点评 评论](http://pan.baidu.com/s/1dDxkY0x)
+
+|出处|语料大小|年代|
+|--|--|--|
+|yongfeng.me/dataset|360万|2014|
+
+
 - [英中翻译数据集2018](https://challenger.ai/dataset/ectd2018)
 
 |出处|语料大小|年代|
@@ -202,6 +240,13 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |出处|语料大小|年代|
 |--|--|--|
 |biendata.com, 搜狐|百万级|2018|
+
+
+- [成语阅读理解大赛](https://biendata.com/competition/idiom/)
+
+|出处|语料大小|年代|
+|--|--|--|
+|biendata.com|未知|2019|
 
 
 - [文本分类语料库（复旦）测试语料](http://www.nlpir.org/?action-viewnews-itemid-103)
@@ -288,7 +333,7 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |github.com/Samurais|小|未知|
 
 
-- [Erheng Zhong](https://sites.google.com/site/erhengzhong/datasets)
+- [Erheng Zhong 豆瓣电影](https://sites.google.com/site/erhengzhong/datasets)
 
 |出处|语料大小|年代|
 |--|--|--|
@@ -307,6 +352,20 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |出处|语料大小|年代|
 |--|--|--|
 |wainshine/Company-Names-Corpus|480万|2018|
+
+
+- [人民日报, 儿童寓言故事](https://github.com/ymcui/Chinese-Cloze-RC)
+
+|出处|语料大小|年代|
+|--|--|--|
+|ymcui/Chinese-Cloze-RC|87万|未知|
+
+
+- [人民日报 NER](https://github.com/Determined22/zh-NER-TF/tree/master/data_path)
+
+|出处|语料大小|年代|
+|--|--|--|
+|Determined22/zh-NER-TF|5万|1998|
 
 
 - [新闻语料json版](https://github.com/brightmart/nlp_chinese_corpus#2%E6%96%B0%E9%97%BB%E8%AF%AD%E6%96%99json%E7%89%88news2016zh)
@@ -335,6 +394,27 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |出处|语料大小|年代|
 |--|--|--|
 |GaoPeng97/transformer-xl-chinese|410万|2011|
+
+
+- [台達閱讀理解資料集 Delta Reading Comprehension Dataset (DRCD)](https://github.com/DRCKnowledgeTeam/DRCD)
+
+|出处|语料大小|年代|
+|--|--|--|
+|DRCKnowledgeTeam/DRCD|3万|2018|
+
+
+- [Chinese IDiom Dataset 成语](https://github.com/zhengcj1/ChID-Dataset)
+
+|出处|语料大小|年代|
+|--|--|--|
+|zhengcj1/ChID-Dataset|729k|2019|
+
+
+- [豆瓣短影评](https://www.kaggle.com/utmhikari/doubanmovieshortcomments)
+
+|出处|语料大小|年代|
+|--|--|--|
+|kaggle.com/utmhikari|200万|2017|
 
 
 ### Embedding 词嵌入
