@@ -309,6 +309,34 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |wainshine/Company-Names-Corpus|480万|2018|
 
 
+- [新闻语料json版](https://github.com/brightmart/nlp_chinese_corpus#2%E6%96%B0%E9%97%BB%E8%AF%AD%E6%96%99json%E7%89%88news2016zh)
+
+|出处|语料大小|年代|
+|--|--|--|
+|brightmart/nlp_chinese_corpus|250万|2016|
+
+
+- [百科类问答json版](https://github.com/brightmart/nlp_chinese_corpus#3%E7%99%BE%E7%A7%91%E7%B1%BB%E9%97%AE%E7%AD%94json%E7%89%88baike2018qa)
+
+|出处|语料大小|年代|
+|--|--|--|
+|brightmart/nlp_chinese_corpus|150万|2016|
+
+
+- [社区问答json版](https://github.com/brightmart/nlp_chinese_corpus#4%E7%A4%BE%E5%8C%BA%E9%97%AE%E7%AD%94json%E7%89%88webtext2019zh-%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%B0%E6%8D%AE%E9%9B%86)
+
+|出处|语料大小|年代|
+|--|--|--|
+|brightmart/nlp_chinese_corpus|410万|2016|
+
+
+- [小说: 斗破苍穹](https://github.com/GaoPeng97/transformer-xl-chinese/tree/master/data/doupo)
+
+|出处|语料大小|年代|
+|--|--|--|
+|GaoPeng97/transformer-xl-chinese|410万|2011|
+
+
 ### Embedding 词嵌入
 
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
