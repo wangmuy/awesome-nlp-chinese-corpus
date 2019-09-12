@@ -5,6 +5,7 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 中文自然语言处理语料 收集列表
 
 Pull requests are welcome!
+
 欢迎提交PR!
 
 ## Contents 列表
@@ -94,6 +95,19 @@ Pull requests are welcome!
 |出处|语料大小|年代|
 |--|--|--|
 |NLPCC 2018|各种|2018|
+
+
+- [CCKS 2019 全国知识图谱与语义计算大会](http://www.ccks2019.cn/?page_id=62)
+  * 任务1: 面向中文电子病历的命名实体识别
+  * [任务2: 面向中文短文本的实体链指任务](https://biendata.com/competition/ccks_2019_el/)
+  * [任务3: 人物关系抽取](https://biendata.com/competition/ccks_2019_ipre/)
+  * [任务4: 面向金融领域的事件主体抽取](https://www.biendata.com/competition/ccks_2019_4/)
+  * 任务5: 公众公司公告信息抽取
+  * 任务6: 中文知识图谱问答
+
+|出处|语料大小|年代|
+|--|--|--|
+|CCKS 2019|各种|2019|
 
 
 - [CCKS 2018 全国知识图谱与语义计算大会](http://www.ccks2018.cn/?page_id=16)
@@ -449,3 +463,13 @@ Pull requests are welcome!
 |模型|语料大小|嵌入大小|
 |--|--|--|
 |DSG|800多万|200|
+
+
+### Pre-trained Language Models 预训练语言模型
+
+- [RoBERTa中文预训练模型](https://github.com/brightmart/roberta_zh)
+
+|模型|语料大小|特点|
+|--|--|--|
+|RoBERTa|近3亿个句子，100亿个中文字|6层/12层/24层|
+
