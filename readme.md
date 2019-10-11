@@ -431,6 +431,83 @@ Pull requests are welcome!
 |kaggle.com/utmhikari|200万|2017|
 
 
+#### [知乎热榜Top50](https://www.kesci.com/home/dataset/5d398badcf76a6003609a2b2/document)
+
+|出处|语料大小|年代|
+|--|--|--|
+|kesci.com|未知|2019|
+
+
+#### [豆瓣长安十二时辰500条评论](https://github.com/DongDongGe1/changan12hours)
+
+|出处|语料大小|年代|
+|--|--|--|
+|github.com/DongDongGe1|500|2019|
+
+
+#### [豆瓣读书数据集](https://www.kesci.com/home/dataset/5cbeb2088c90d7002c822b18/document)
+
+|出处|语料大小|年代|
+|--|--|--|
+|zhihu.com/people/sgai|6万|2019|
+
+
+#### [去哪儿网—数据清洗](https://www.kesci.com/home/dataset/5cbd31e58c90d7002c816f5d/document)
+
+|出处|语料大小|年代|
+|--|--|--|
+|kesci.com|未知|2019|
+
+
+#### [今日头条中文新闻（文本）分类数据集](https://github.com/fate233/toutiao-text-classfication-dataset)
+
+|出处|语料大小|年代|
+|--|--|--|
+|github.com/fate233|38万|2018|
+
+
+#### [豆瓣电影数据集](https://www.kesci.com/home/dataset/5a655501a1ddf9450243a1a5/document)
+
+|出处|语料大小|年代|
+|--|--|--|
+|kesci.com|未知|2011-2016|
+
+
+#### [bilibili流行动漫影评数据](https://www.kaggle.com/sherrytp/bilibili-cells-at-work)
+
+|出处|语料大小|年代|
+|--|--|--|
+|kaggle.com|19.1k|2019|
+
+
+#### [中国文学文本数据集](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset)
+
+|出处|语料大小|年代|
+|--|--|--|
+|github.com/lancopku|未知|2018|
+
+
+#### [《中餐厅3》19W弹幕数据](https://www.kesci.com/home/dataset/5d7b69798499bc002c0d3ec5/document)
+
+|出处|语料大小|年代|
+|--|--|--|
+|kesci.com|19W|2019|
+
+
+#### [中文新闻数据集](https://www.kaggle.com/ceshine/yet-another-chinese-news-dataset)
+
+|出处|语料大小|年代|
+|--|--|--|
+|kaggle.com|143k|2019|
+
+
+#### [豆瓣《哪吒之魔童降世》影评](https://www.kesci.com/home/dataset/5d3e5cb4cf76a600361d0196/document)
+
+|出处|语料大小|年代|
+|--|--|--|
+|kesci.com|未知|2019|
+
+
 ### Embedding 词嵌入
 
 #### [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
